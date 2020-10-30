@@ -17,10 +17,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone do repositório
-$ git clone https://github.com/leodoima/repo-github.git
+$ git clone https://github.com/leodoima/goBarber-frontend.git
 
 # Acesse a pasta do projeto
-$ cd repo-github
+$ cd goBarber-frontend
 
 # Instale as dependências
 $ yarn
