@@ -2,7 +2,7 @@
 Aplicação de reservas para serviços de barbearia desenvolvido em ReactJS
 
 <h1 align="center">
-  <img src="/assets/repo1.png" />  
+  <img src="../src/assets/gobarber.png" />  
 </h1>
 
 ### Tecnologias
