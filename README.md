@@ -12,10 +12,6 @@ Aplicação de reservas para serviços de barbearia desenvolvido em ReactJS
 
 ### Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [ReactJs](https://reactjs.org/)
 
 ### Rodando aplicação
