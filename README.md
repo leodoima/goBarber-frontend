@@ -1,8 +1,9 @@
 # goBarber-frontend
 Aplicação de reservas para serviços de barbearia desenvolvido em ReactJS
 
-<h1 align="center">
-  <img src="/assets/gobarber.png" />  
+<h1>
+  <img width="500px" height="300px" src="/assets/gobarber-login.png" />
+  <img width="500px" height="300px" src="/assets/gobarber-cadastro.png" />
 </h1>
 
 <h4 align="center"> 
