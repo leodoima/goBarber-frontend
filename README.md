@@ -5,22 +5,23 @@ Aplicação de reservas para serviços de barbearia desenvolvido em ReactJS
   <img src="/assets/gobarber.png" />  
 </h1>
 
+<h4 align="center"> 
+	Em desenvolvimento...
+</h4>
+
+
 ### Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [ReactJs](https://reactjs.org/)
 
-### Rodando aplicaço
+### Rodando aplicação
 
 ```bash
 # Clone do repositório
-$ git clone https://github.com/leodoima/repo-github.git
+$ git clone https://github.com/leodoima/goBarber-frontend.git
 
 # Acesse a pasta do projeto
-$ cd repo-github
+$ cd goBarber-frontend
 
 # Instale as dependências
 $ yarn
