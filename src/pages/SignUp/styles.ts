@@ -18,6 +18,32 @@ export const Content = styled.div`
 
   width: 100%;
   max-width: 700px;
+`;
+
+export const Background = styled.div`
+  flex: 1;
+  background: url(${signUpBackgroundImg}) no-repeat center;
+  background-size: cover;
+`;
+
+const appearFromLeft = keyframes`
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+`;
+
+export const AnimationContainer = styled.div`
+  animation: ${appearFromLeft} 1s;
+
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
 
   form {
     margin: 80px 0;
@@ -92,25 +118,4 @@ export const Content = styled.div`
       color: ${shade(0.2, '#f4ede8')};
     }
   }
-`;
-
-export const Background = styled.div`
-  flex: 1;
-  background: url(${signUpBackgroundImg}) no-repeat center;
-  background-size: cover;
-`;
-
-const appearFromLeft = keyframes`
-  from {
-    opacity: 0;
-    transform: translateX(-50px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-`;
-
-export const AnimationContainer = styled.div`
-  animation: ${appearFromLeft} 1s;
 `;
